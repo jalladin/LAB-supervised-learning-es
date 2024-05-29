@@ -8,11 +8,11 @@ En este laboratorio trabajaremos en otro problema de aprendizaje supervisado par
 
 ## Empezando
 
-Abre el archivo `main.ipynb` en el directorio `your-code`. Sigue las instrucciones y agrega tu código y explicaciones según sea necesario.
+Abre el archivo `main_esp.ipynb` en el directorio `your-code`. Sigue las instrucciones y agrega tu código y explicaciones según sea necesario.
 
 ## Entregables
 
-- `main.ipynb` con tus respuestas.
+- `main_esp.ipynb` con tus respuestas.
 
 ## Entrega
 
